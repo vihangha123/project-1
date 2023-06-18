@@ -4,4 +4,16 @@
         # . # . # 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_pause" id="I@qgXfwQ%`JC/k2VqY{#"><value name="pause"><shadow type="timePicker" id="HK+pd%q1cx-/|+%7LMC%"><field name="ms">100</field></shadow></value></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="I@qgXfwQ%`JC/k2VqY{#"><value name="pause"><shadow type="timePicker" id="HK+pd%q1cx-/|+%7LMC%"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="%X(%,;tZ)e_}*CKbX]|h"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="H#_$Gm]daV-qX4w;B!ra"><value name="pause"><shadow type="timePicker" id="N|J2[?nRtP5GvJ|ahZlf"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="LO68[jTXs:B_}5Z;6:42"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="x_cfTF.}Nl*N^qU:M[7O"><value name="pause"><shadow type="timePicker" id="K3GJa(Q,Q@@r9K)H`9?L"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
